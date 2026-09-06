@@ -6,3 +6,4 @@ do not forget the makefile
 
 
 testetee
+cc cmake
